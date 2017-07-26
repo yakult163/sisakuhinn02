@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"１１１","characterIndex":0,"characterName":"１","classId":1,"equips":[1,1,2],"faceIndex":0,"faceName":"顔１","traits":[],"initialLevel":30,"maxLevel":99,"name":"ナーベオ","nickname":"高知の英雄","note":"","profile":"高知の英雄らしい"},
+{"id":2,"battlerName":"女主人公２","characterIndex":0,"characterName":"女主人公２","classId":2,"equips":[1,1,2],"faceIndex":0,"faceName":"女主人公１","traits":[],"initialLevel":30,"maxLevel":99,"name":"カマクー","nickname":"孤高の女剣士","note":"","profile":"凄腕女剣士。"},
+{"id":3,"battlerName":"主人公男３２","characterIndex":0,"characterName":"主人公男３１","classId":3,"equips":[3,1,2],"faceIndex":0,"faceName":"主人公男３","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":30,"maxLevel":99,"name":"ヤットィー","nickname":"幸せ戦士","note":"","profile":"幸せいっぱい。"},
+{"id":4,"battlerName":"主人公女４３","characterIndex":0,"characterName":"１主人公４","classId":4,"equips":[2,1,2],"faceIndex":0,"faceName":"主人公４","traits":[],"initialLevel":30,"maxLevel":99,"name":"グッチヤマ","nickname":"光る魔法使い","note":"","profile":"元弓道部。好きな人が光って見えてから魔法に\n目覚める"},
+{"id":5,"battlerName":"ざいま","characterIndex":0,"characterName":"ざいま","classId":3,"equips":[1,1,0],"faceIndex":0,"faceName":"ざいま","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":30,"maxLevel":99,"name":"ザイマックス","nickname":"ボーカル戦士","note":"","profile":"ボーカルもする武闘家。都会出身。\n"},
+{"id":6,"battlerName":"おり","characterIndex":0,"characterName":"おり","classId":4,"equips":[2,1,7],"faceIndex":0,"faceName":"おんりー","traits":[{"code":21,"dataId":0,"value":1.01},{"code":21,"dataId":3,"value":0.95},{"code":21,"dataId":5,"value":1.06},{"code":21,"dataId":4,"value":1.09},{"code":11,"dataId":1,"value":1}],"initialLevel":30,"maxLevel":99,"name":"オリーン","nickname":"矢部の守り神","note":"","profile":"魔法使い。矢部を守っている。"},
+{"id":7,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":3,"equips":[0,0,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハーヤマ","nickname":"ポンコツ戦士","note":"","profile":"ポンコツだが、やるときゃやるときもある"}
+]
